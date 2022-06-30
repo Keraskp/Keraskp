@@ -2,9 +2,9 @@
 <h1 align="center">Hello 👋, I'm Aditya Kiran Pal</h1>
 <h3 align="center">A Machine Learning :computer: Enthusiast from Agartala, Tripura :india:</h3>
 
-<!---p align="left"> <img src="https://komarev.com/ghpvc/?username=keraskp&label=Profile%20views&color=0e75b6&style=flat" alt="keraskp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keraskp&label=Profile%20views&color=0e75b6&style=flat" alt="keraskp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keraskp&theme=onedark" alt="keraskp" /></a> </p--->
+<!---p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keraskp&theme=onedark" alt="keraskp" /></a> </p--->
 
 - :computer: I’m currently working on **Medical Datasets**
 
@@ -17,6 +17,8 @@
 - 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **adityakiran.cs@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
