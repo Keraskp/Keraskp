@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Kiran Pal</h1>
+<p align="center"><img align="center" src="https://www.dataquest.io/wp-content/uploads/2019/10/dataquest-learn-data-science-online.gif"></p>
+<h1 align="center">Hello 👋, I'm Aditya Kiran Pal</h1>
 <h3 align="center">A Machine Learning Enthusiast from Agartala, Tripura</h3>
 
 <!---p align="left"> <img src="https://komarev.com/ghpvc/?username=keraskp&label=Profile%20views&color=0e75b6&style=flat" alt="keraskp" /> </p>
