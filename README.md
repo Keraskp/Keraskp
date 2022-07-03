@@ -1,4 +1,4 @@
-<p align="center"><img height=300 align="center" src="https://www.dataquest.io/wp-content/uploads/2019/10/dataquest-learn-data-science-online.gif"></p>
+<p align="center"><img height=300 align="center" src="images/astro.gif"></p>
 <h1 align="center">Hello 👋, I'm Aditya Kiran Pal</h1>
 <h3 align="center">A Machine Learning :computer: Enthusiast from Agartala, Tripura :india:</h3>
 
