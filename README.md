@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keraskp&show_icons=true&locale=en&theme=dark&layout=compact" alt="keraskp">
 </p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keraskp&theme=dark" alt="keraskp" ></p>
+<p></p>
