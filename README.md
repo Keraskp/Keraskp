@@ -105,9 +105,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keraskp&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Keraskp&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keraskp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=noctis_minimus&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keraskp&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Keraskp&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keraskp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=noctis_minimus&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ---
