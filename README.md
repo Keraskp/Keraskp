@@ -116,3 +116,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
+---
+![snake gif](https://github.com/Keraskp/Keraskp/blob/output/github-contribution-grid-snake.gif)
+
